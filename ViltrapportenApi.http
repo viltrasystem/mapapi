@@ -1,0 +1,6 @@
+@ViltrapportenApi_HostAddress = http://localhost:5012
+
+GET {{ViltrapportenApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
